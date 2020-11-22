@@ -3,6 +3,7 @@
 
 clear
 read -p "Udah Subscribe Cannel Avatar ID : " nama;
+clear
 echo -e "\033[31;1m+\033[33;1m--------------------------------->
 echo -e "\033[0;32mAuthor   : \033[0;36mRomli"
 echo -e "\033[0;32mYoutube  : \033[0;36mAVATAR ID"
